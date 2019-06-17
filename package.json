@@ -5,12 +5,14 @@
   "author": "Chirag Goel (http://www.chirag-goel.in)",
   "dependencies": {
     "react": "*",
-    "react-dom": "*"
+    "react-dom": "*",
+    "typescript": "*"
   },
   "devDependencies": {
     "@babel/core": "*",
     "@babel/preset-env": "*",
     "@babel/preset-react": "*",
+    "@babel/preset-typescript": "*",
     "babel-jest": "*",
     "jest": "*",
     "react-test-renderer": "*"
