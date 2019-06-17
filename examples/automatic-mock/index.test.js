@@ -40,6 +40,6 @@ import utils from './index';
 /* Disable auto mock */
 
 // jest.disableAutomock();
-// test('original implementation', () => {
-//     expect(utils.authorize()).toBe('token');
-// });
+test('original implementation', () => {
+    expect(utils.authorize()).toBe('token');
+});

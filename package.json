@@ -15,7 +15,9 @@
     "@babel/preset-typescript": "*",
     "babel-jest": "*",
     "jest": "*",
-    "react-test-renderer": "*"
+    "react-test-renderer": "*",
+    "enzyme": "*",
+    "enzyme-adapter-react-16": "*"
   },
   "scripts": {
     "test": "jest"
