@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "jest-unit-testing",
+  "author": "Chirag Goel (http://www.chirag-goel.in)",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-jest": "*",
+    "jest": "*"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
