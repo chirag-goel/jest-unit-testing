@@ -21,3 +21,8 @@ it('CheckboxWithLabel changes the text after click', () => {
   );
   expect(checkboxNode.textContent).toEqual('On');
 });
+
+/* 
+  Note: Check @testing-library/react for testing react components
+  Examples: https://codesandbox.io/s/github/kentcdodds/react-testing-library-examples
+*/
