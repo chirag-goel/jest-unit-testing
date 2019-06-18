@@ -21,5 +21,8 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "jest": {
+    "testPathIgnorePatterns": ["react-redux"]
   }
 }
